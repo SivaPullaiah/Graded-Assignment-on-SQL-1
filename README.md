@@ -70,4 +70,29 @@
   - Update name “mili” to “niti”.
 
 <img width="332" alt="update_name" src="https://user-images.githubusercontent.com/93705673/236679303-e66de5fc-3163-4a93-86c3-02637965e20c.png">
+</details><br/>
+
+<details>
+<summary>Question 2</summary>
+
+- Sample table: customer 
+
+<img width="289" alt="customer" src="https://user-images.githubusercontent.com/93705673/236685212-09b4d982-4459-46fe-b6f0-4f3c26a4a5cf.png">
+
+- Sample table: salesman
+
+<img width="236" alt="salsmen" src="https://user-images.githubusercontent.com/93705673/236685226-3fab3910-41c5-4276-9dc0-709c4dc12397.png">
+
+<br/>
+
+> Output
+
+- lessthan 100
+
+<img width="291" alt="less_100" src="https://user-images.githubusercontent.com/93705673/236685262-fbfa9432-8fe6-4a2b-9ebd-c5ae1e48b9a2.png">
+
+- lessthan 200
+
+<img width="315" alt="less_200" src="https://user-images.githubusercontent.com/93705673/236685258-479d86a8-ec09-45cf-b618-9ad0f87aabb9.png">
+
 </details>
